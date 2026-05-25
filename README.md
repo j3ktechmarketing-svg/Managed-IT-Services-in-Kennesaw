@@ -191,7 +191,3 @@ Locations served include Atlanta, Alpharetta, Marietta, Sandy Springs, Roswell, 
 | Real Estate and Property Management |
 
 ---
-
-## Meta Description
-
-Managed IT Services in Kennesaw providing scalable IT infrastructure, cybersecurity, cloud management, remote monitoring, business continuity solutions, managed network support, and industry-focused technology services for healthcare, finance, education, legal, retail, hospitality, manufacturing, and growing businesses.
