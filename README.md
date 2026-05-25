@@ -191,3 +191,6 @@ Locations served include Atlanta, Alpharetta, Marietta, Sandy Springs, Roswell, 
 | Real Estate and Property Management |
 
 ---
+
+## Contact  
+For inquiries and consultations, [connect here](https://www.j3ktech.com/contact-us/)  
